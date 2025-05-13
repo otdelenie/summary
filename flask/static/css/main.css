@@ -1,0 +1,34 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+body{
+    background: gray;
+}
+
+.header{
+    background-color: black;
+	width: 100%;
+	height: 90px;
+	color: white;
+	text-align: center;
+	text-shadow: white;
+	font-size: 30px;
+}
+
+.url{
+    font-size: 40px;
+    color: white
+
+}
+.url:hover{
+   color: red;
+}
+
+.h1{
+    text-align: center;
+
+}
